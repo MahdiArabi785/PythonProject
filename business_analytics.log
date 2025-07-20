@@ -43,3 +43,34 @@
 2025-07-19 16:55:38,796 - __main__ - INFO - Report generated: business_report_20250719_165538.json
 2025-07-19 16:55:38,796 - __main__ - INFO - Analysis completed successfully
 2025-07-19 16:55:38,797 - __main__ - CRITICAL - Application error: 'financial_metrics'
+2025-07-20 10:59:34,332 - __main__ - INFO - BusinessAnalyticsAgent v3.0.0 initialized
+2025-07-20 10:59:34,332 - __main__ - INFO - Business Analytics Agent initialized successfully
+2025-07-20 10:59:34,332 - __main__ - INFO - Starting business analysis
+2025-07-20 10:59:34,336 - __main__ - INFO - Significant revenue growth detected
+2025-07-20 10:59:34,338 - __main__ - INFO - Report generated: business_report_20250720_105934.json
+2025-07-20 10:59:34,339 - __main__ - INFO - Analysis completed successfully
+2025-07-20 10:59:34,339 - __main__ - CRITICAL - Application error: 'financial_metrics'
+2025-07-20 10:59:52,296 - __main__ - INFO - BusinessAnalyticsAgent v3.0.0 initialized
+2025-07-20 10:59:52,296 - __main__ - INFO - Business Analytics Agent initialized successfully
+2025-07-20 10:59:52,296 - __main__ - INFO - Starting business analysis
+2025-07-20 10:59:52,299 - __main__ - INFO - Significant revenue growth detected
+2025-07-20 10:59:52,301 - __main__ - INFO - Report generated: business_report_20250720_105952.json
+2025-07-20 10:59:52,301 - __main__ - INFO - Analysis completed successfully
+2025-07-20 10:59:52,301 - __main__ - CRITICAL - Application error: 'financial_metrics'
+2025-07-20 11:00:20,551 - __main__ - INFO - BusinessAnalyticsAgent v3.0.0 initialized
+2025-07-20 11:00:20,551 - __main__ - INFO - Business Analytics Agent initialized successfully
+2025-07-20 11:00:20,552 - __main__ - INFO - Starting business analysis
+2025-07-20 11:00:20,554 - __main__ - INFO - Significant revenue growth detected
+2025-07-20 11:00:20,557 - __main__ - INFO - Report generated: business_report_20250720_110020.json
+2025-07-20 11:00:20,558 - __main__ - INFO - Analysis completed successfully
+2025-07-20 11:00:20,558 - __main__ - CRITICAL - Application error: 'financial_metrics'
+2025-07-20 12:49:01,576 - __main__ - INFO - Database initialized successfully
+2025-07-20 12:49:01,587 - __main__ - INFO - BusinessAnalyticsAgent v3.1.0 initialized
+2025-07-20 12:49:01,587 - __main__ - INFO - Business Analytics Agent initialized successfully
+2025-07-20 12:49:01,587 - __main__ - INFO - Starting business analysis
+2025-07-20 12:49:01,591 - __main__ - INFO - Significant revenue growth detected
+2025-07-20 12:49:01,594 - __main__ - INFO - Report generated: business_report_20250720_124901.json
+2025-07-20 12:49:01,594 - __main__ - ERROR - Report generation failed: 'customer_lifetime_value_ratio'
+2025-07-20 12:49:01,594 - __main__ - ERROR - Dashboard generation failed: 'customer_lifetime_value_ratio'
+2025-07-20 12:49:01,594 - __main__ - ERROR - Analysis failed: 'customer_lifetime_value_ratio'
+2025-07-20 12:49:01,594 - __main__ - CRITICAL - Application error: 'customer_lifetime_value_ratio'

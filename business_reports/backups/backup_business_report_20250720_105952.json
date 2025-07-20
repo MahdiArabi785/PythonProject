@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "analysis_date": "2025-07-20T10:59:52.298627",
+    "agent_version": "3.0.0",
+    "report_version": "1.0",
+    "data_hash": "58ce5bfc93d512543ac562df5d771615"
+  },
+  "financial_metrics": {
+    "revenue": {
+      "current": 12000.0,
+      "previous": 10000.0,
+      "change_pct": 20.0,
+      "trend": "up"
+    },
+    "cost": {
+      "current": 8500.0,
+      "previous": 8000.0,
+      "change_pct": 6.25,
+      "trend": "up"
+    },
+    "profit": {
+      "amount": 3500.0,
+      "margin": 29.166666666666668,
+      "status": "positive"
+    }
+  },
+  "customer_metrics": {
+    "count": 95,
+    "cac": {
+      "current": 89.47,
+      "previous": 88.89,
+      "change_pct": 0.66,
+      "status": "normal"
+    }
+  },
+  "insights": {
+    "alerts": [],
+    "recommendations": [
+      "Allocate additional budget to high-performing marketing channels"
+    ],
+    "priority": "normal"
+  },
+  "system": {
+    "timestamp": "2025-07-20 10:59:52",
+    "processing_time_ms": 1
+  }
+}
